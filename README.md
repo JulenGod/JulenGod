@@ -31,19 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Julen's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulenGod&show_icons=true&hide_border=true&title_color=17314C&icon_color=17314C&text_color=c9d1d9&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulenGod&layout=compact&hide_border=true&title_color=17314C&text_color=c9d1d9&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JulenGod&theme=dark&hide_border=true&ring=17314C&fire=17314C&currStreakLabel=17314C&background=0d1117)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
