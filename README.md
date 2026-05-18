@@ -4,7 +4,7 @@
 
 ### AI Software Engineer | LLMs · RAG · Azure OpenAI · Python · React | Building AI products end to end
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-17314C?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/julen-s%C3%A1nchez-monreal-39a96a272))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-17314C?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/julen-sánchez-monreal-39a96a272])
 [![Email](https://img.shields.io/badge/Email-17314C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julensanchez09@gmail.com)
 
 </div>
@@ -37,6 +37,7 @@
 
 <div align="center">
 
-**💬 Reach out:** [LinkedIn]([https://linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com/in/julen-s%C3%A1nchez-monreal-39a96a272)) · [Email](mailto:julensanchez09@gmail.com)
+**💬 Reach out:** [LinkedIn](www.linkedin.com/in/julen-sánchez-monreal-39a96a272) · [Email](mailto:julensanchez09@gmail.com)
+
 
 </div>
