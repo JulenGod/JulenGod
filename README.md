@@ -31,16 +31,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JulenGod&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&line=17314C&point=ffffff&bg_color=0d1117)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ---
